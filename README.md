@@ -10,7 +10,7 @@ Every bank needs an ATM, an application that automates several tasks for a bank 
 * [Contact](#contact)
 
 ## General Info
-The ATM project was created in order to put into practice the knowledge gained so far in Java: Object Oriented Programming, the principles of SOLID interfaces and the 3-layer architecture: Controller-Service-Repository.
+The ATM project was created in order to put into practice the knowledge gained until March in Java: Object Oriented Programming, the principles of SOLID interfaces and the 3-layer architecture: Controller-Service-Repository.
 
 ## Technologies
 The project is created with:
